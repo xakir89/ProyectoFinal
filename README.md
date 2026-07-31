@@ -32,4 +32,4 @@ Para ejecutar correctamente este programa en tu computadora, sigue estos pasos:
 4. Ejecuta el archivo principal usando el siguiente comando:
 
    ```bash
-   python main_2.py
+   python main.py
